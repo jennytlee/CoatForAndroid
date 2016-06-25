@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coat</string>
+    <string name="hint">Enter location</string>
+    <string name="go">Go</string>
+    <string name="defaultTemp">0.0</string>
+    <string name="loading">Loading…</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve">AIzaSyCDPx4QijPY7pANeYyTypAcmAKB-R1kvY0</string>
+</resources>
